@@ -10,7 +10,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # Configuration
-FIREFOX_PROFILE = "C:\\Users\\LENOVA\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\mrbpplrs.default-esr"
+FIREFOX_PROFILE = "C:\\Users\\Your-Name\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\Your-Data"
 GECKO_PATH = "D:\\G-Tec Automation Script\\Driver\\geckodriver.exe"
 WAIT_TIME = 20
 EXCEL_PATH = r"D:\\G-Tec Automation Script\\Excel\\Data.xlsx"
